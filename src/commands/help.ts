@@ -1,6 +1,5 @@
 import { Command } from "@guildedjs/gil";
 import { Embed, Message } from "guilded.js";
-import { BOT_INVITE_LINK, BOT_SUPPORT_SERVER } from "../../configs";
 
 export default class BotCommand extends Command {
   aliases = ["h"];

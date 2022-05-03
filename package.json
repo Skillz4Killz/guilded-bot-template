@@ -1,0 +1,27 @@
+{
+  "name": "guilded-bot-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skillz4Killz/guilded-bot-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skillz4Killz/guilded-bot-template/issues"
+  },
+  "homepage": "https://github.com/Skillz4Killz/guilded-bot-template#readme",
+  "dependencies": {
+    "@guildedjs/gil": "^0.2.3",
+    "guilded.js": "^0.8.0",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  }
+}

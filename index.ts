@@ -1,6 +1,5 @@
-import path from "path";
 import { BotClient } from "@guildedjs/gil";
-import { TOKEN } from "../configs";
+import { TOKEN } from "./configs";
 
 const client = new BotClient({
   token: TOKEN,
